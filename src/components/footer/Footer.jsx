@@ -26,7 +26,7 @@ const Footer = () => {
             <i class='bx bxl-instagram'></i>
         </a>
 
-        <a href="https://www.linkedin.com/in/iamdigvijaysethi/" className="home__social-icon" target="_blank">
+        <a href="https://www.linkedin.com/in/justxdv/" className="home__social-icon" target="_blank">
         <i class='bx bxl-linkedin'></i>
         </a>
 
