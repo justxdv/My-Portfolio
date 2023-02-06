@@ -3,6 +3,7 @@ import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
+import Work6 from "../../assets/work6.jpg";
 
 export const projectsData = [
     {
@@ -44,6 +45,14 @@ export const projectsData = [
       category: "web",
       language: "React Js & CSS",
       url: "https://currency-converter-dv.netlify.app/",
+    },
+    {
+      id: 6,
+      image: Work6,
+      title: "Random color palette generator",
+      category: "web",
+      language: "HTML, CSS & Javascript",
+      url: "https://random-color-palette-dv.netlify.app/",
     },
   ];
   
