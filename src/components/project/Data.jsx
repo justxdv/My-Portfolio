@@ -4,60 +4,76 @@ import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
 import Work6 from "../../assets/work6.jpg";
+import Work7 from "../../assets/work7.jpg";
 
 export const projectsData = [
-    {
-      id: 1,
-      image: Work1,
-      title: "Dictionary",
-      category: "web",
-      language: "HTML, CSS & JavaScript",
-      url: "https://dv-dictionary.netlify.app/",
-    },
-    {
-      id: 2,
-      image: Work2,
-      title: "Temperature Converter",
-      category: "web",
-      language: "HTML, CSS & JavaScript",
-      url: "https://temperatureconverterdv.netlify.app/",
-    },
-    {
-      id: 3,
-      image: Work3,
-      title: "Word & Char Counter",
-      category: "web",
-      language: "HTML, CSS & JavaScript",
-      url: "https://wordcounterdv.netlify.app/",
-    },
-    {
-      id: 4,
-      image: Work4,
-      title: "Reverse Countdown",
-      category: "web",
-      language: "React Js & CSS",
-      url: "https://reverse-countdown-dv.netlify.app/",
-    },
-    {
-      id: 5,
-      image: Work5,
-      title: "Currency Converter",
-      category: "web",
-      language: "React Js & CSS",
-      url: "https://currency-converter-dv.netlify.app/",
-    },
-    {
-      id: 6,
-      image: Work6,
-      title: "Random color palette generator",
-      category: "web",
-      language: "HTML, CSS & Javascript",
-      url: "https://random-color-palette-dv.netlify.app/",
-    },
-  ];
-  
-  export const projectsNav = [
-    {
-        name: 'all',
-    },
-  ];
+  {
+    id: 1,
+    image: Work1,
+    title: "Dictionary",
+    category: "javascript",
+    language: "HTML, CSS & JavaScript",
+    url: "https://dictionary-dv.vercel.app/",
+  },
+
+  {
+    id: 2,
+    image: Work2,
+    title: "CryptoEra",
+    category: "react.Js",
+    language: "ReactJS,  Redux, CSS,  Ant Design & RapidAPI",
+    url: "https://cryptoera-dv.vercel.app/",
+  },
+  {
+    id: 3,
+    image: Work3,
+    title: "Pokemon Memory Game",
+    category: "javascript",
+    language: "HTML, CSS & JavaScript",
+    url: "https://pokegame-dv.vercel.app/",
+  },
+  {
+    id: 4,
+    image: Work4,
+    title: "Spirit Fitness Landing Page",
+    category: "react.Js",
+    language: "ReactJS, CSS & Framer Motion",
+    url: "https://spiritfitness-dv.vercel.app/",
+  },
+  {
+    id: 5,
+    image: Work5,
+    title: "Random Color Palette Generator",
+    category: "javascript",
+    language: "HTML, CSS & Javascript",
+    url: "https://random-color-palette-dv.vercel.app/",
+  },
+  {
+    id: 6,
+    image: Work6,
+    title: "Word and Character Counter",
+    category: "javascript",
+    language: "HTML, CSS & Javascript",
+    url: "https://word-and-char-counter-dv.vercel.app/",
+  },
+  {
+    id: 7,
+    image: Work7,
+    title: "wizMovies",
+    category: "javascript",
+    language: "HTML, CSS & Javascript",
+    url: "https://wizmovies-dv.vercel.app/",
+  },
+];
+
+export const projectsNav = [
+  {
+    name: "all",
+  },
+  {
+    name: "javascript",
+  },
+  {
+    name: "react.Js",
+  },
+];

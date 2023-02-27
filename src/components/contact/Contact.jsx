@@ -8,7 +8,7 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_5l961vn', 'stemplate_n3fip14', form.current, 'TENbOPY-80SvdtT2l')
+    emailjs.sendForm('service_5l961vn', 'template_n3fip14', form.current, 'TENbOPY-80SvdtT2l')
       e.target.reset()
   };
   return (
@@ -34,9 +34,8 @@ const Contact = () => {
                         <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                         <h3 className="contact__card-title">Whatsapp</h3>
-                        <span className="contact__card-data">+91 700-698-7620</span>
 
-                        <a href="https://api.whatsapp.com/send?phone=7006987620&text=Hello Digvijay!" className="contact__button">Write me{" "} <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                        <a href="https://wa.link/biiyjz" className="contact__button">Write me{" "} <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
                 </div>
                 </div>

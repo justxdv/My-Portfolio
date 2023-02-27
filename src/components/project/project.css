@@ -8,12 +8,16 @@
 
 .project__item {
     cursor: pointer;
-    color: var(--container-color);
-    background-color: var(--title-color);
+    color: var(--title-color);
     padding: 0.25rem 0.75rem;
     font-weight: var(--font-medium);
     border-radius: 0.5rem;
     text-transform: capitalize;
+}
+
+.project__item:hover {
+    color: var(--container-color);
+    background-color: var(--title-color);
 }
 
 .project__container {
@@ -60,6 +64,12 @@
 
 .project__button:hover .project__button-icon {
     transform: translateX(0.25rem);
+}
+
+/* active work */
+.active-project {
+  background-color: var(--title-color);
+  color: var(--container-color);
 }
 
 /*BREAKPOINTS*/
