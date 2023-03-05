@@ -5,6 +5,7 @@ import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
 import Work6 from "../../assets/work6.jpg";
 import Work7 from "../../assets/work7.jpg";
+import Work8 from "../../assets/work8.jpg";
 
 export const projectsData = [
   {
@@ -63,6 +64,14 @@ export const projectsData = [
     category: "javascript",
     language: "HTML, CSS & Javascript",
     url: "https://wizmovies-dv.vercel.app/",
+  },
+  {
+    id: 8,
+    image: Work8,
+    title: "Filmex",
+    category: "react.Js",
+    language: "ReactJS, MUI, Redux Toolkit & Alan AI",
+    url: "https://filmex-dv.vercel.app/",
   },
 ];
 
