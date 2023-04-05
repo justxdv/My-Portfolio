@@ -73,6 +73,14 @@ export const projectsData = [
     language: "ReactJS, MUI, Redux Toolkit & Alan AI",
     url: "https://filmex-dv.vercel.app/",
   },
+  {
+    id: 9,
+    image: Work9,
+    title: "Social Bee",
+    category: "MERN",
+    language: "MongoDB, ExpressJs, ReactJs, NodeJs & Material UI",
+    url: "https://socialbee.vercel.app/",
+  },
 ];
 
 export const projectsNav = [
@@ -84,5 +92,8 @@ export const projectsNav = [
   },
   {
     name: "react.Js",
+  },
+  {
+    name: "MERN",
   },
 ];
