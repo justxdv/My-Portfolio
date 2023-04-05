@@ -6,6 +6,7 @@ import Work5 from "../../assets/work5.jpg";
 import Work6 from "../../assets/work6.jpg";
 import Work7 from "../../assets/work7.jpg";
 import Work8 from "../../assets/work8.jpg";
+import Work9 from "../../assets/work9.jpg";
 
 export const projectsData = [
   {
