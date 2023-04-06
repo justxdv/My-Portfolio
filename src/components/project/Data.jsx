@@ -78,7 +78,7 @@ export const projectsData = [
     id: 9,
     image: Work9,
     title: "Social Bee",
-    category: "MERN",
+    category: "mern",
     language: "MongoDB, ExpressJs, ReactJs, NodeJs & Material UI",
     url: "https://socialbee.vercel.app/",
   },
@@ -95,6 +95,6 @@ export const projectsNav = [
     name: "react.Js",
   },
   {
-    name: "MERN",
+    name: "mern",
   },
 ];
