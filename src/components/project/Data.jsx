@@ -6,7 +6,7 @@ import Work5 from "../../assets/work5.jpg";
 import Work6 from "../../assets/work6.jpg";
 import Work7 from "../../assets/work7.jpg";
 import Work8 from "../../assets/work8.jpg";
-import Work9 from "../../assets/work9.jpg";
+import Work9 from "../../assets/work9.png";
 
 export const projectsData = [
   {
@@ -78,7 +78,7 @@ export const projectsData = [
     id: 9,
     image: Work9,
     title: "Social Bee",
-    category: "react.Js",
+    category: "MERN",
     language: "MongoDB, ExpressJs, ReactJs, NodeJs & Material UI",
     url: "https://socialbee.vercel.app/",
   },
@@ -93,5 +93,8 @@ export const projectsNav = [
   },
   {
     name: "react.Js",
+  },
+  {
+    name: "MERN",
   },
 ];
