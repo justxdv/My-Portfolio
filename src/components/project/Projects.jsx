@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react';
 import { projectsData } from './Data';
 import { projectsNav } from './Data';
 import ProjectItems from './ProjectItems';
+import './project.css';
 
 const Projects = () => {
   const [item, setItem] = useState({name: 'all'});
