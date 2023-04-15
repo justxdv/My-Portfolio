@@ -7,6 +7,7 @@ import Work6 from "../../assets/work6.jpg";
 import Work7 from "../../assets/work7.jpg";
 import Work8 from "../../assets/work8.jpg";
 import Work9 from "../../assets/work9.png";
+import Work10 from "../../assets/work10.jpg";
 
 export const projectsData = [
   {
@@ -81,6 +82,14 @@ export const projectsData = [
     category: "MERN",
     language: "MongoDB, ExpressJs, ReactJs, NodeJs & Material UI",
     url: "https://socialbee.vercel.app/",
+  },
+  {
+    id: 10,
+    image: Work10,
+    title: "Itchy-Feet",
+    category: "MERN",
+    language: "MongoDB, ExpressJs, ReactJs, NodeJs & Material UI",
+    url: "https://itchy-feet.vercel.app/",
   },
 ];
 
