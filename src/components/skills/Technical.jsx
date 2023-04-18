@@ -58,6 +58,27 @@ const Technical = () => {
                      <h3 className="skills__name">Tailwind CSS</h3>
                     </div>
                 </div>  
+                <div className="skills__data">
+                <i class='bx bxs-badge-check'></i>
+
+                    <div>
+                     <h3 className="skills__name">ExpressJs</h3>
+                    </div>
+                </div>  
+                <div className="skills__data">
+                <i class='bx bxs-badge-check'></i>
+
+                    <div>
+                     <h3 className="skills__name">NodeJs</h3>
+                    </div>
+                </div>  
+                <div className="skills__data">
+                <i class='bx bxs-badge-check'></i>
+
+                    <div>
+                     <h3 className="skills__name">MongoDB</h3>
+                    </div>
+                </div>  
 
                 
             </div>
