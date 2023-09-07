@@ -20,7 +20,7 @@ const About = () => {
                 A courteous and enthusiastic BCA graduate who is capable to use technical skills for the betterment of the organization. Seeking and targeting an entry level opportunity with an esteemed organization where I can utilize my skills and enhance learning in the field of work. Capable of mastering new technologies. I am interested in IT and everything in its orbit. Mostly I am fascinated about Web Programming and Development as this area complements my studies. Ready to identify opportunities to enhance front-end development and improve the user experience.
                 </p>
 
-                <a download="" href="#" className="button button--flex">Download Resume
+                <a download="" href="javascript:void(0)" className="button button--flex">Download Resume
                 <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
